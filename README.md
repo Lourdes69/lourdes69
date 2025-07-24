@@ -1,28 +1,34 @@
-# 👋 ¡Hola! Soy Lourdes69
+# 👋 ¡Hola! Soy Lourdes Avalos
 
 ---
 
-## 👩‍💻 Sobre mí
-Me apasiona crear interfaces con detalles visuales únicos. Disfruto el diseño tanto como el desarrollo, y siempre codeo escuchando música, ¡eso me ayuda a concentrarme y dejar fluir la creatividad! 🎧✨
+## 👩‍💻 Sobre mí  
+Me apasiona crear interfaces con detalles visuales únicos. Disfruto tanto del diseño como del desarrollo, y siempre codeo escuchando música, ¡eso me ayuda a concentrarme y dejar fluir la creatividad! 🎧✨  
+Soy **Desarrolladora Frontend**, especializada en construir experiencias digitales modernas, funcionales y estéticamente cuidadas, utilizando tecnologías como React, Tailwind y herramientas de diseño como Figma.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### [🐾 Huellitas Shop](#)
-_E-commerce para mascotas diseñado con **React** y **Tailwind**. Experiencia moderna, amigable y pensada para los amantes de los animales._
+### [🐾 Huellitas Shop](https://huellitasshop.netlify.app)  
+_E-commerce para mascotas diseñado con **React** y **Tailwind**. Pensado para brindar una experiencia amigable, moderna y accesible para los amantes de los animales._
 
-<!-- Si tienes el logo de "Huellitas Shop", agrégalo aquí -->
-<!-- ![Logo Huellitas Shop](ruta/al/logo.png) -->
+### [💇‍♀️ Aura Bella – Salón de Belleza](https://salon-de-belleza-psi.vercel.app)  
+_Web institucional para un salón de belleza. Diseño limpio, moderno y responsive, ideal para promocionar servicios y atraer clientas._
 
 Otros proyectos:
-- [Nombre del proyecto](enlace)
-- [Nombre del proyecto](enlace)
+- 🎨 **Portfolio Personal** *(en desarrollo)* – SPA moderna con fondo oscuro, navegación animada y secciones dinámicas.
+- 📚 **Gestor de Tareas** – App CRUD de tareas con React, hooks y localStorage.
+- 📲 **App Clima** – Aplicación responsive que muestra el clima de cualquier ciudad usando APIs.
 
 ---
 
 ## 🎓 Educación
-- [Tu formación académica, bootcamps o cursos aquí]
+
+- 🧠 **Oracle Next Education (ONE)** – Formación Frontend + Soft Skills  
+- 🖥️ **UTN** – Curso de React JS  
+- 💻 **Argentina Programa** – Introducción a la programación web  
+- 🎨 **Alura Latam** – Diseño UX/UI y desarrollo web
 
 ---
 
@@ -34,22 +40,22 @@ Otros proyectos:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=violet)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=violet)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=violet)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=violet)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=violet)
 
 ---
 
 ## 🎨 Estilo visual
 
-> Me gusta cuidar cada detalle para que el usuario disfrute una experiencia única y memorable. Siempre busco combinar funcionalidad y estética en cada proyecto.
+> Me gusta cuidar cada detalle para que el usuario disfrute una experiencia única y memorable. Siempre busco combinar funcionalidad y estética en cada proyecto. Prefiero trabajar con **fondos oscuros, tipografías limpias y animaciones suaves** para lograr una experiencia moderna y elegante.
 
 ---
 
 ## 🌐 Conecta conmigo
 
-<!--
-[![LinkedIn](https://www.linkedin.com/in/lourdes-avalos-91a301255/)](tu-enlace)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=violet)](tu-enlace)
-
--->
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=violet)](https://github.com/Lourdes69)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=violet)](https://www.linkedin.com/in/lourdes-avalos-91a301255/)  
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=violet)](mailto:lourdesdev7@gmail.com)
 
 ---
 
