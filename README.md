@@ -18,8 +18,10 @@ _Web institucional para un salón de belleza. Diseño limpio, moderno y responsi
 
 Otros proyectos:
 - 🎨 **Portfolio Personal** *(en desarrollo)* – SPA moderna con fondo oscuro, navegación animada y secciones dinámicas.
-- 📚 **Gestor de Tareas** – App CRUD de tareas con React, hooks y localStorage.
-- 📲 **App Clima** – Aplicación responsive que muestra el clima de cualquier ciudad usando APIs.
+- 🍬 **Tienda de Golosinas** – Proyecto realizado en **AdoptaUnJunior** como simulación de entorno laboral. E-commerce funcional con catálogo de productos, carrito de compras y diseño responsive, desarrollado en equipo utilizando **React**, **Tailwind** y control de versiones con **Git**.
+
+- 🚛 **App de Gestión de Flota de Camiones** – Proyecto realizado en **NoCountry**. Aplicación colaborativa que permite visualizar y gestionar flotas de camiones, conductores y destinos. Desarrollada con enfoque en componentes reutilizables, consumo de APIs y estructura de frontend profesional.
+
 
 ---
 
@@ -28,7 +30,7 @@ Otros proyectos:
 - 🧠 **Oracle Next Education (ONE)** – Formación Frontend + Soft Skills  
 - 🖥️ **UTN** – Curso de React JS  
 - 💻 **Argentina Programa** – Introducción a la programación web  
-- 🎨 **Alura Latam** – Diseño UX/UI y desarrollo web
+- 🎨 **Talento Tech** – ReactJs
 
 ---
 
